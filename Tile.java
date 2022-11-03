@@ -43,4 +43,8 @@ public class Tile {
         color = col;
     }
 
+    public String toString(){
+        return "" + value;
+    }
+
 }
